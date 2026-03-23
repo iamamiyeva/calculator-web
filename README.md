@@ -4,7 +4,7 @@ Simple calculator built with HTML, CSS, JavaScript and Flask.
 
 ## Features
 
-- Basic operations (+, -, *, /)
+- Basic operations (+, -, \*, /)
 - Error handling with try-catch
 - Clean UI design
 - Flask backend to serve the app
@@ -14,7 +14,9 @@ Simple calculator built with HTML, CSS, JavaScript and Flask.
 pip install -r requirements.txt
 python app.py
 
-## Usage
+## Run
+
+run "python app.py" in terminal
 
 Open http://127.0.0.1:5000 in your browser
 
