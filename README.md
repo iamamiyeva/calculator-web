@@ -12,6 +12,7 @@ Simple calculator built with HTML, CSS, JavaScript and Flask.
 ## Installation
 
 pip install -r requirements.txt
+
 python app.py
 
 ## Usage
